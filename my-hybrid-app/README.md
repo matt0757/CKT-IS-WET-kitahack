@@ -105,4 +105,4 @@ flutter run
 
 ## Team
 
-Team PisangGoreng
+Team CKT is wet
